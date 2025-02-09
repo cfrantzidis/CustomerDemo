@@ -45,5 +45,13 @@ namespace CustomerDemo
             Console.WriteLine("Press any key to exit...");
             Console.ReadKey();
         }
+        void MyFirstMethod()
+        {
+
+        }
+        void MySecondMethod()
+        {
+
+        }
     }
 }
