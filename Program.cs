@@ -34,6 +34,7 @@ namespace CustomerDemo
             // Display updated details
             Console.WriteLine($"Updated Customer Details: {customer.FirstName} {customer.LastName}, Email: {customer.Email}, Age: {customer.Age} ");
             Console.WriteLine("------------------------");
+            Console.WriteLine("This is an additional change");
 
             Console.WriteLine("Press any key to exit...");
             Console.ReadKey();
